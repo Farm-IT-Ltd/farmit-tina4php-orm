@@ -1,5 +1,5 @@
 {
-    "name": "farmit/tina4php-orm",
+    "name": "tina4stack/tina4php-orm",
     "description": "Tina4 ORM Module",
     "license": "MIT",
     "autoload": {
@@ -19,7 +19,7 @@
         "roave/security-advisories": "dev-latest",
         "phpunit/phpunit": "^9",
         "overtrue/phplint": "^2.0",
-        "farmit/tina4php-firebird": "^2.0",
+        "tina4stack/tina4php-firebird": "^2.0",
         "phpmetrics/phpmetrics": "^0.0.1"
     },
     "scripts": {
